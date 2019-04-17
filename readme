@@ -1,0 +1,4 @@
+To run this scheudler, use one of the following command:
+    python3 scheduler.py -a <test.iloc> output-test.iloc
+    python3 scheduler.py -b <test.iloc> output-test.iloc
+    python3 scheduler.py -c <test.iloc> output-test.iloc

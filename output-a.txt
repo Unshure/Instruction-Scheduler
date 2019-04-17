@@ -1,0 +1,77 @@
+
+1319
+Executed 28 instructions and 28 operations in 55 cycles.
+1
+2
+3
+4
+5
+6
+7
+Executed 36 instructions and 36 operations in 90 cycles.
+1
+2
+3
+4
+5
+6
+7
+Executed 36 instructions and 36 operations in 91 cycles.
+-39992
+45
+Executed 41 instructions and 41 operations in 57 cycles.
+25
+10018
+4
+Executed 32 instructions and 32 operations in 51 cycles.
+5920
+14850
+2061500416
+Executed 82 instructions and 82 operations in 89 cycles.
+180
+1602486272
+Executed 31 instructions and 31 operations in 54 cycles.
+860
+-1103101952
+Executed 43 instructions and 43 operations in 82 cycles.
+3
+8
+15
+24
+49
+512
+Executed 59 instructions and 59 operations in 59 cycles.
+5
+5
+25
+Executed 16 instructions and 16 operations in 23 cycles.
+5
+5
+25
+Executed 18 instructions and 18 operations in 33 cycles.
+2725
+157206399
+Executed 31 instructions and 31 operations in 40 cycles.
+5
+1923
+Executed 31 instructions and 31 operations in 36 cycles.
+5
+1923
+Executed 31 instructions and 31 operations in 36 cycles.
+25
+10018
+4
+Executed 32 instructions and 32 operations in 52 cycles.
+Executed 2 instructions and 2 operations in 2 cycles.
+1319
+Executed 28 instructions and 28 operations in 55 cycles.
+5
+5
+25
+Executed 18 instructions and 18 operations in 33 cycles.
+860
+-1103101952
+Executed 43 instructions and 43 operations in 82 cycles.
+-39992
+45
+Executed 41 instructions and 41 operations in 57 cycles.
